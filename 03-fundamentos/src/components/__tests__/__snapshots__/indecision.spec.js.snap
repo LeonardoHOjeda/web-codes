@@ -1,0 +1,10 @@
+// Vitest Snapshot v1
+
+exports[`Indecision Component > Debe de hacer match con el snapshot 1`] = `
+"<!--v-if-->
+<div class=\\"bg-dark\\" data-v-04870c9e=\\"\\"></div>
+<div class=\\"indecision-container\\" data-v-04870c9e=\\"\\"><input type=\\"text\\" placeholder=\\"Realiza una pregunta\\" data-v-04870c9e=\\"\\">
+  <p data-v-04870c9e=\\"\\">Recuerda terminar con un signo de interrogacion</p>
+  <!--v-if-->
+</div>"
+`;
